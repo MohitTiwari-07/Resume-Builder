@@ -1,0 +1,29 @@
+{
+  "resumes": [
+    {
+      "name": "rohit sharma",
+      "email": "1@gmail.com",
+      "phone": "08005567177",
+      "education": [
+        "btech"
+      ],
+      "experience": [
+        "ds"
+      ],
+      "skills": [
+        "py "
+      ],
+      "projects": [
+        {
+          "title": "resume",
+          "description": "",
+          "technologies": [
+            "py"
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "next_id": 4
+}
